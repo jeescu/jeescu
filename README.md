@@ -38,15 +38,15 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
 
-- 🌱 Learning some random design architecture.
+- 🌱 Learning some design architecture.
 - :bulb: I'm interested in all new ideas and solutions.
 - 💬 Talk to me about anything. Not really.
-- ⚡️ Fun-Fact: I have ideas; too late.
+- ⚡️ Fun-Fact: I have an idea; too late.
 
 <!-- #### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I love connecting with different people :) -->
 
 
-<h4> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I code with...</h4>
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; I code with...
 
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
