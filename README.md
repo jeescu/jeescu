@@ -33,7 +33,7 @@
 </a>
 <br />
 
-<img align='right' src="https://vignette.wikia.nocookie.net/nyancat/images/d/d7/Donutcat.gif/revision/latest/scale-to-width-down/340?cb=20130616122235" width="230">
+<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="200">
 <p><em>Software Engineer at <a href="http://98labs.com">98labs Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -52,7 +52,7 @@
 <!-- #### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I love connecting with different people :) -->
 
 
-#### Things I code with.. 
+#### I code with.. 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -86,5 +86,4 @@
 
 ![jeescu's github stats](https://github-readme-stats.vercel.app/api?username=jeescu&show_icons=true&title_color=fff&icon_color=ffe979&text_color=9f9f9f&bg_color=151515)
 
-------------
-<p align="center"> <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=jeescu.jeescu"/> <img alt="Stars" src="https://img.shields.io/github/stars/jeescu/jeescu?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/jeescu/jeescu?style=flat-square&labelColor=343b41"/></td></p>
+<p> <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=jeescu.jeescu&style=flat-square&labelColor=343b41"/></p>
