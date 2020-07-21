@@ -33,7 +33,7 @@
 </a>
 <br />
 
-<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="200">
+<img align='right' src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="100">
 <p><em>Software Engineer at <a href="http://98labs.com">98labs Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
