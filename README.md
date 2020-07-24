@@ -83,7 +83,8 @@
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img alt="Github" width="20" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>
 <code><img alt="Gitlab" width="20" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png"></code>
-<code><img alt="Gitlab" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"></code>
+<code><img alt="npm" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"></code>
+<code><img alt="Lerna" width="20" src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png"></code>
 
 
 ![jeescu's github stats](https://github-readme-stats.vercel.app/api?username=jeescu&show_icons=true&title_color=fff&icon_color=ffe979&text_color=9f9f9f&bg_color=151515)
