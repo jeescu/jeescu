@@ -1,14 +1,14 @@
 <h2> Hi! I'm <a href="https://jeescu.github.io">John Edward</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <br/>
-<a href="https://discord.gg/test">
+<a href="https://discord.gg/Esku#5057">
   <img align="left" alt="John's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/johnedwardescuyos">
   <img align="left" alt="John | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/johnedwardescuyos/">
-  <img align="left" alt="John's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="John's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!-- <a href="https://t.me/abhisheknaiidu">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -38,7 +38,7 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
 
-- 🌱 Learning some design architecture.
+- 🌱 Learning some design architectures.
 - :bulb: I'm interested in all new ideas and solutions.
 - 💬 Talk to me about anything. Not really.
 - ⚡️ Fun-Fact: I have an idea; too late.
