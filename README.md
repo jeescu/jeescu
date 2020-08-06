@@ -58,9 +58,8 @@
 <code><img alt="ExpressJS" width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPDyR-Xb70DsaMdrk28bt1DZ6xZ061zBDKew&usqp=CAU"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width="20" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
 </br>
-
+<code><img width="20" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img alt="MeteorJS" width="20" src="https://cdn.worldvectorlogo.com/logos/meteor-icon.svg"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
@@ -70,9 +69,9 @@
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+</br>
 <code><img width="20" src="https://www.opencodez.com/wp-content/uploads/2019/01/Spark_Java_Logo.png"></code>
 <code><img width="20" src="https://www.php.net/images/logos/new-php-logo.svg"></code>
-</br>
 <code><img alt="VSCode" width="20" src="https://secrethub.io/img/vs-code.svg"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -81,10 +80,10 @@
 <code><img alt="npm" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"></code>
 <code><img alt="Lerna" width="20" src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png"></code>
 <code><img width="20" src="https://img.stackshare.io/service/2820/lumen.png"></code>
+</br>
 <code><img width="20" src="https://www.loadsys.com/wp-content/uploads/laravel_loadsys.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img alt="MongoDB" width="20" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"></code>
-</br>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
