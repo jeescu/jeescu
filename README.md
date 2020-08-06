@@ -34,11 +34,11 @@
 <br />
 
 <img align='right' src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="120">
-<p><em>Software Engineer at <a href="http://98labs.com">98labs Inc.</a></em></p>
+<p><em>I'm a Software Engineer at <a href="http://98labs.com">98labs Inc.</a></em></p>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
 
-- 🌱 Learning some design architectures.
+- 🌱 Learning some design architectures. Practicing leadership.
 - :bulb: I'm interested in all new ideas and solutions.
 - 💬 Talk to me about anything. Not really.
 - ⚡️ Fun-Fact: I have an idea; too late.
@@ -59,10 +59,11 @@
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img width="20" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
+</br>
+
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img alt="MeteorJS" width="20" src="https://cdn.worldvectorlogo.com/logos/meteor-icon.svg"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-</br>
 <code><img width="20" src="https://apollographql.gallerycdn.vsassets.io/extensions/apollographql/vscode-apollo/1.16.6/1594745321481/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -71,12 +72,6 @@
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img width="20" src="https://www.opencodez.com/wp-content/uploads/2019/01/Spark_Java_Logo.png"></code>
 <code><img width="20" src="https://www.php.net/images/logos/new-php-logo.svg"></code>
-<code><img width="20" src="https://img.stackshare.io/service/2820/lumen.png"></code>
-<code><img width="20" src="https://www.loadsys.com/wp-content/uploads/laravel_loadsys.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img alt="MongoDB" width="20" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 </br>
 <code><img alt="VSCode" width="20" src="https://secrethub.io/img/vs-code.svg"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -85,6 +80,12 @@
 <code><img alt="Gitlab" width="20" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png"></code>
 <code><img alt="npm" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"></code>
 <code><img alt="Lerna" width="20" src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png"></code>
+<code><img width="20" src="https://img.stackshare.io/service/2820/lumen.png"></code>
+<code><img width="20" src="https://www.loadsys.com/wp-content/uploads/laravel_loadsys.png"></code>
+<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img alt="MongoDB" width="20" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"></code>
+</br>
+<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-
-![jeescu's github stats](https://github-readme-stats.vercel.app/api?username=jeescu&show_icons=true&title_color=fff&icon_color=ffe979&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeescu&layout=compact)](https://github.com/jeescu/github-readme-stats)
