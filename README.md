@@ -31,9 +31,9 @@
 <a href="https://www.codechef.com/users/">
   <img align="left" alt="John's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-<br />
+<br /><br />
 
-<p><em>I'm a Software Engineer</em></p>
+<p align="left"><em>I'm a Senior Software Engineer</em></p>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
 
