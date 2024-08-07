@@ -1,4 +1,4 @@
-<h2> Hi! I'm <a href="https://jeescu.github.io">John Edward</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi! I'm <a href="https://jeescu.github.io">John E</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <br/>
 <a href="https://discord.gg/Esku#5057">
