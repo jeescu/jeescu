@@ -55,8 +55,8 @@
 <code><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/820px-Vitejs-logo.svg.png?20220412224743"></code>
 <code><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042"></code>
 </br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeescu&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jeescu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeescu&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jeescu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeescu&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jeescu/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeescu&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jeescu/github-readme-stats#gh-light-mode-only)
 </br></br>
-[![John E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeescu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![John E's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jeescu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![John E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeescu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jeescu/github-readme-stats#gh-dark-mode-only)
+[![John E's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jeescu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jeescu/github-readme-stats#gh-light-mode-only)
