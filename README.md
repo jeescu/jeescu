@@ -35,24 +35,26 @@
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img width="20" src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 </br>
 <code><img width="20" src="https://www.opencodez.com/wp-content/uploads/2019/01/Spark_Java_Logo.png"></code>
 <code><img width="20" src="https://www.php.net/images/logos/new-php-logo.svg"></code>
-<code><img alt="VSCode" width="20" src="https://secrethub.io/img/vs-code.svg"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img alt="Github" width="20" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>
 <code><img alt="Gitlab" width="20" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png"></code>
 <code><img alt="npm" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"></code>
-<code><img alt="Lerna" width="20" src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png"></code>
+<code><img alt="Lerna" width="20" src="https://seeklogo.com/images/L/lerna-logo-D58BD795F6-seeklogo.com.png"></code>
 <code><img width="20" src="https://img.stackshare.io/service/2820/lumen.png"></code>
+<code><img width="20" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png"></code>
 </br>
-<code><img width="20" src="https://www.loadsys.com/wp-content/uploads/laravel_loadsys.png"></code>
+<code><img width="20" src="https://laravel.com/img/logomark.min.svg"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img alt="MongoDB" width="20" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/820px-Vitejs-logo.svg.png?20220412224743"></code>
+<code><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeescu&layout=compact)](https://github.com/jeescu/github-readme-stats)
