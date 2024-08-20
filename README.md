@@ -1,6 +1,6 @@
 <h2> Hi! I'm <a href="https://jeescu.github.io">John E</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<br /><br />
+<br />
 
 <p align="left"><em>I'm a Senior Software Engineer</em></p>
 
