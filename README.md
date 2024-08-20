@@ -1,18 +1,5 @@
 <h2> Hi! I'm <a href="https://jeescu.github.io">John E</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<br/>
-<a href="https://discord.gg/Esku#5057">
-  <img align="left" alt="John's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/johnedwardescuyos">
-  <img align="left" alt="John | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/johnedwardescuyos/">
-  <img align="left" alt="John's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/johnedwardescuyos/">
-  <img align="left" alt="John's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br /><br />
 
 <p align="left"><em>I'm a Senior Software Engineer</em></p>
